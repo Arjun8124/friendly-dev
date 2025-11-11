@@ -2,7 +2,7 @@ import type { Route } from "./+types/index";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Friendly Dev" },
+    { title: "Friendly Dev | Welcome" },
     { name: "description", content: "A customizable portfolio website!" },
   ];
 }
